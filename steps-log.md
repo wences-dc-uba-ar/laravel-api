@@ -17,3 +17,6 @@ php artisan serve
 tuto laravel api test:
 
 * https://www.toptal.com/laravel/restful-laravel-api-tutorial
+```bash
+php artisan make:model Article -m
+```
