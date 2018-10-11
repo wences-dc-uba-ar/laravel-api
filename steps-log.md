@@ -14,3 +14,6 @@ php artisan key:generate
 php artisan serve
 
 ```
+tuto laravel api test:
+
+* https://www.toptal.com/laravel/restful-laravel-api-tutorial
